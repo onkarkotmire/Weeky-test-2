@@ -1,0 +1,15 @@
+.card-box{
+width: 350px;
+height: 320px;
+background-color: #a8b8ff;
+display: flex;
+align-items: center;
+flex-direction: column;
+gap: 20%;
+margin-bottom: 5%;
+}
+.card-image{
+    width: 90%;
+    height: 60%;
+    margin-top: -5%;
+}
